@@ -1,1 +1,1 @@
-# Foodie-Customer
+# FoodieCustomer
